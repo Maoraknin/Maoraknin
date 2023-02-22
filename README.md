@@ -2,7 +2,7 @@
 <h3 align="center">I am a Full-Stack Developer</h3>
 
 
-• 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
+• 🧲 A people's person and a tech lover. Autodidact, skilled in handling stressful situations, ambitious, high work ethic and a team player!
 
 • 🌴 Proficient in building single-page apps. 
 
